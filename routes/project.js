@@ -1,3 +1,3 @@
 exports.viewProject = function(req,res){
-	res.render("project.handlebars");
+	res.render("project");
 };
